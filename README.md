@@ -19,3 +19,4 @@ Data has been used from the site:
 <br>
 <br>
 <img src="./images/priceandrevenue.png">
+<p>In the chart, we can see that the company makes more profit by selling the skincare products. </p>
