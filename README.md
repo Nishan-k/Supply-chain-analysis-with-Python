@@ -45,3 +45,25 @@ Now, let's analyze the SKU (Stock keeping Units). These are the unique numbers g
 <br>
 <h3>7. Now, let's see the number of stocks available for each SKU. </h3>
 <img src="./images/sku.png">
+<br>
+<h3>7. Let's visualize the order quantity of different SKU. </h3>
+<img src="./images/skuorder.png">
+<br>
+<p>Earlier, we visualized which carrier was generaating the most revenue, now let's visualize the shipping costs for each of these carriers. </p>
+<h3>8. Shipping cost for each of the carriers. </h3>
+<img src="./images/shipping.png">
+<br>
+<h3>9.Now, let's see what are the transporation methods that the company is using. </h3>
+<img src="./images/transportationmode.png">
+<br>
+<b>The two most invested transportation mode are Road with 30.3 % and Rail with 28.7 %.</b>
+<p>As, we also products which have defects, let's visualize
+which products are the one with the highest defect counts and out of the available transportation modes, which of these are damaging the products the most or which of them is unsafest one.</p>
+<h3>10. Products with the highest defect counts.</h3>
+<img src="./images/defect.png">
+<br>
+<p>As we can see, haircare product has the highest defect rate. Now, let's see which transportation mode leads to the product being delivered as the most defect one.</p>
+<h3>11. Transportation method with the highest defect counts .</h3>
+<img src="./images/transdefect.png">
+<br>
+<b>Here, we can see that products transported via Road has the highest defect rate with 28.9 %, while Rail and Sea in the same position with 25.5 % and Air being the least one with 20.1 %. </b>
