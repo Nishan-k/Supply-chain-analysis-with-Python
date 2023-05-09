@@ -52,6 +52,7 @@ Now, let's analyze the SKU (Stock keeping Units). These are the unique numbers g
 <p>Earlier, we visualized which carrier was generaating the most revenue, now let's visualize the shipping costs for each of these carriers. </p>
 <h3>8. Shipping cost for each of the carriers. </h3>
 <img src="./images/shipping.png">
+<p>Although, Carrier-B was generating the most of the profit, we can see it also has the highest shipping cost compared to the rest of the avilable shipping methods. </p>
 <br>
 <h3>9.Now, let's see what are the transporation methods that the company is using. </h3>
 <img src="./images/transportationmode.png">
